@@ -1,1 +1,1 @@
-# minecraft-file
+# minecraftfile
